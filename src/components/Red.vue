@@ -1,5 +1,7 @@
 <template>
-    <div></div>
+    <div>
+        <slot>こんにちは！</slot>
+    </div>
 </template>
 
 <script>
